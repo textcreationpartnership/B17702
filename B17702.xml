@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summary of the arguments for the 1000 y. kingdom by T.B.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17702</idno><idno type="EEBO-CITATION">15556468</idno>
+  <idno type="VID">206180</idno>
+  <idno type="EEBO-PROQUEST">2248503685</idno>
+  
+            <idno type="STC">Wing B2179</idno>
+            <idno type="OCLC">15556468</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summary of the arguments for the 1000 y. kingdom by T.B.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to Beverley.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: pages faded, with some loss of print.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Millennium.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="summary">
+            <pb facs="tcp:206180:1"/>
+            <pb n="1" facs="tcp:206180:1"/>
+            <head>A SUMMARY Of <hi>Arguments</hi> for the 1000 <hi>Y. Kingdom:</hi> By <hi>T.B.</hi>
+            </head>
+            <p>
+               <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> I. IF the <hi>New Heaven</hi> and the <hi>New Earth</hi> be a Palace for <hi>Christ,</hi> the <hi>King</hi> of <hi>Glory,</hi> and for his <hi>Saints</hi> in <hi>Glory</hi> with <hi>Him;</hi> Be<g ref="char:EOLhyphen"/>ginning with the <hi>Thousand Years,</hi> and <hi>Flying away</hi> within a <hi>Little space,</hi> after They are <hi>Ended;</hi> when the <hi>Kingdom</hi> is <hi>Delivered up,</hi> and the <hi>New Jerusalem</hi> Re-ascends to <hi>God;</hi> Then there must be such a <hi>Thousand Years Kingdom;</hi> But so It is, by plain <hi>Doctri<g ref="char:EOLhyphen"/>nal,</hi> and by the <hi>Prophetical Scriptures</hi> of the <hi>Revlation</hi> compared: There<g ref="char:EOLhyphen"/>fore <hi>There</hi> must be such a <hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Arg</hi> 2. If All <hi>Saints</hi> be <hi>Saints Dead in Christ Rising first,</hi> or of the <hi>First Resurrection;</hi> Or <hi>Saints,</hi> Styled The <hi>Lrving,</hi> The <hi>Remaining,</hi> not <hi>Dying,</hi> but <hi>Chang'd</hi> in the very Moment of that <hi>First Resurrection;</hi> so putting off this Low State of <hi>Body,</hi> but not immediately <hi>Caught up</hi> to <hi>Christ;</hi> nor Immediately <hi>putting on the Incorruption</hi> and <hi>Immortality</hi> of the <hi>First Resurrection,</hi> but Secured for it by this <hi>Change;</hi> as being <hi>Par<g ref="char:EOLhyphen"/>takers of the First Resurrection;</hi> over <hi>Whom the Second Death shall have no power.</hi> And if there be a <hi>Thousand Years</hi> between this <hi>Change</hi> at the Time of the <hi>Saints Rising first,</hi> before the Time of these <hi>Living, these Remaining Saints</hi> being <hi>Caught up;</hi> All which Time the <hi>Saints</hi> of both Kinds <hi>Reign with Christ;</hi> Then there Must be such a <hi>Thousand Years Kingdom of Christ.</hi> But so all this is by plain <hi>Doctrinal,</hi> and by the <hi>Prophetical Scripture</hi> of the <hi>Resurrection</hi> Compar'd; Therefore there must be such a <hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Argum.</hi> 3. If Christ, and the <hi>Saints</hi> of the <hi>First Resurrection</hi> are in the Palace of the <hi>New Heaven above,</hi> as on <hi>Thrones,</hi> and their <hi>Glory shining down</hi> on the <hi>New Earth below;</hi> and the <hi>Saints,</hi> the <hi>Living,</hi> the <hi>Remaining Chang'd,</hi> are in the <hi>Paradise</hi> of the <hi>New Earth below,</hi> and <hi>walk in the Light of the New Jerusalem Above;</hi> and so Each in this <hi>Thou<g ref="char:EOLhyphen"/>sand Years, Reign with Christ;</hi> and at the <hi>End</hi> the <hi>Saints below,</hi> are <hi>Caught up Alike with the Saints Above,</hi> Then there must be a <hi>Thousand Years Kingdom of Christ:</hi> But so it is by the Compare of <hi>plain Doctrinal</hi> and of <hi>Prophetical Scripture</hi> in the <hi>Revelation;</hi> Therefore such a Kingd. must be.</p>
+            <p>
+               <hi>Arg.</hi> 4. If <hi>Satan</hi> the <hi>Old Serpent</hi> Bound, must Lie a 1000 <hi>Years,</hi> ha<g ref="char:EOLhyphen"/>ving his <hi>Head Broken</hi> by the <hi>Second Adam,</hi> the <hi>Seed of the Woman,</hi> and <hi>Bruised under the Feet of Saints shortly;</hi> and then be <hi>Loosed</hi> for a <hi>Little space</hi> before he be <hi>Cast into the Lake,</hi> which can never yet have been: Then there must be a <hi>Kingdom of a Thousand Years</hi> to <hi>Christ and his Saints.</hi> But so by <hi>plain Doctrinal Scripture</hi> and the <hi>Prophetical Scripture.</hi> of the <hi>Revelation,</hi> it must be; Therefore there must be such a <hi>King<g ref="char:EOLhyphen"/>dom of a Thousand Years.</hi>
+            </p>
+            <p>
+               <hi>Argum.</hi> 5. If the <hi>Dead Wicked Raised,</hi> as at the same Time with the <hi>Saints of the First Resurrection,</hi> and with the <hi>Saints chang'd;</hi> and yet being <hi>Raised to Condemnation,</hi> are neither counted <hi>Principals</hi> nor <hi>Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> of the <hi>First Resurrection,</hi> but the <hi>Dead</hi> still; who with <hi>Death</hi> it self <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be the <hi>Footstool of Christ's Feet,</hi> Sitting on an <hi>Exalted Throne Above <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> and as <hi>Ashes</hi> under the <hi>Soals</hi> of the <hi>Saints Feet</hi> for a <hi>Thousand
+<pb n="2" facs="tcp:206180:2"/>Years,</hi> before They are Finally after the 1000 <hi>Y. Destroyed,</hi> and <hi>Cast into the Lake;</hi> Then there must be such a <hi>Thousand Years Kingdom of Christ:</hi> But so It must be by <hi>plain Doctrinal Scripture,</hi> and by the <hi>Prophetical Scri<g ref="char:EOLhyphen"/>pture</hi> of the <hi>Revelation</hi> Compard. <hi>Therefore such a Kingdom must be.</hi>
+            </p>
+            <p>
+               <hi>Argum</hi> 6. If the <hi>Gog-Magog</hi> in the <hi>Revelation,</hi> of which <hi>Ezekiel</hi>'s <hi>Prophecy</hi> is a Great <hi>Type,</hi> c 38 c. 39. that stirs not for the <hi>Thousand Years</hi> of <hi>Satan Bound under</hi> the <hi>Reign of Christ with his Saints,</hi> against the <hi>Belo<g ref="char:EOLhyphen"/>ved City</hi> and <hi>Camp of the Saints;</hi> but at the End of the <hi>Thousand Years,</hi> makes a short <hi>Assault,</hi> is no other than the <hi>Wicked Dead Rais'd,</hi> and <hi>Ly<g ref="char:EOLhyphen"/>ing</hi> at the <hi>Fotstool</hi> of <hi>Christ</hi> on his <hi>Throne for a Thousand Years,</hi> then <hi>Judg'd and Cast into the Lake</hi> with <hi>Death and Hell;</hi> Then there must be such a <hi>Thousand Years Kingdom of Christ:</hi> But so it must needs be by <hi>plain Do<g ref="char:EOLhyphen"/>ctrinal</hi> and the <hi>Prophetical Scripture</hi> of the <hi>Revelation</hi> Compar'd. <hi>There<g ref="char:EOLhyphen"/>fore</hi> such a Kingdom must be.</p>
+            <p>And thus according to both <hi>plain and Doctrinal,</hi> and <hi>Prophetical Scrip<g ref="char:EOLhyphen"/>ture;</hi> The last <hi>Enemy Death</hi> shall be <hi>subdued,</hi> with <hi>Satan</hi> its <hi>Prince,</hi> and all its <hi>Dead;</hi> and in the <hi>New Heaven and Earth flying away,</hi> the <hi>Kingdom is Delivered up,</hi> and <hi>God All in All.</hi>
+            </p>
+            <p>By way of Addition upon All This.</p>
+            <p>
+               <note place="margin">Inferential Argum.</note>If at the <hi>Reformation,</hi> beginning by <hi>Luther, A. D.</hi> 1517. The Last 180 of the 1260 Years, Assigned to the <hi>Tyranny of Antichrist,</hi> and to the <hi>Witnesses</hi> in <hi>Sackcloth,</hi> Began, and so at the Ending of those 180. <hi>A.D.</hi> 1697. <hi>Daniel</hi>'s <hi>Fourth Monarchy</hi> is at an End, and the <hi>Kingdom</hi> of the <hi>Stone</hi> and of the <hi>Son of Man, Filling the whole Earth</hi> shall Begin; and the <hi>Kingdoms of this World</hi> shall be Proclaimed to be the <hi>Kingdoms of the Lord,</hi> and of <hi>his Christ,</hi> in order to a 75 Y. Preparation to the <hi>Glorious Kingdom of the Thousand Years.</hi> Then the Time is so near that it ought to call us off from this World to a Faith in, Earnest-Prayer for, and Preparation for this <hi>Kingdom:</hi> But <hi>this</hi> hath been Argued on <hi>Great Scri<g ref="char:EOLhyphen"/>pture Grounds;</hi> Therefore so we ought to be Affected, <hi>Loving this King<g ref="char:EOLhyphen"/>dom,</hi> and <hi>Appearance of the Lord Jesus Coming Quickly.</hi> AMEN.</p>
+            <p>
+               <table>
+                  <head>Revel. 20. Verse 4, <hi>&amp;c</hi> Expounded by <hi>Parallels</hi> of its own.</head>
+                  <row>
+                     <cell>Ver. 4. <q>I saw Thrones, and They sate upon Them.</q>
+                     </cell>
+                     <cell>
+                        <hi>Viz.</hi> The Armies of Heaven, <hi>cap</hi> 19.14 Prophets, Saints, Small, Great, Fearing, God Rewarded, <hi>cap.</hi> 11 18.</cell>
+                  </row>
+                  <row>
+                     <cell>Peculiarly John <q>saw the Souls of the Beheaded for the Witness of Jesus, and the Word of God.</q>
+                     </cell>
+                     <cell>
+                        <hi>Viz.</hi> The Souls of the Slain for the Word of God, and the Testimony of Jesus, under the <hi>Pagan Empire, cap.</hi> 6.9. Then in white Robes, as Spi<g ref="char:EOLhyphen"/>rit, Now Living and Reigning in Bodies of Glory, as Intimated then.</cell>
+                  </row>
+                  <row>
+                     <cell>Most pecularly, <q>Those who had not worshippe<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he Beast, <hi>&amp;c.</hi>
+                        </q>
+                     </cell>
+                     <cell>
+                        <hi>Viz.</hi> The Witnesses He kill'd, <hi>cap.</hi> 11.7. His Image caus'd to be kill'd, <hi>c</hi> 13 15. <hi>viz.</hi> The Rest of Fel<g ref="char:EOLhyphen"/>low Servants, Brethren, to be kill'd, <hi>c.</hi> 6.11.</cell>
+                  </row>
+                  <row>
+                     <cell>V. 5. <q>The Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nant, or Rest of the Dead Li<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed not. <hi>&amp;c.</hi>
+                        </q>
+                     </cell>
+                     <cell>
+                        <hi>Viz.</hi> The Remnant slain with the Sword of Christ's Mouth, being Kings, <hi>&amp;c.</hi> Small, Great, <hi>cap.</hi> 19.21. The Dead judg'd, and Those de<g ref="char:EOLhyphen"/>stroy'd, who destroy'd the Earth, <hi>cap.</hi> 11.18.</cell>
+                  </row>
+                  <row>
+                     <cell>V. 6. <q>Blessed and Holy is he that hath his part, <hi>&amp;c.</hi> They Lived and Reigned.</q>
+                     </cell>
+                     <cell>
+                        <hi>Viz.</hi> The Nations of the Saved; Kings of the Earth, <hi>c</hi> 21.24. Healed with the Leaves of the Tree of Life, <hi>cap.</hi> 22.2.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>An ANSWER is Desired to a DISCOƲRSE Annex'd.</hi>
+            </p>
+            <pb facs="tcp:206180:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
